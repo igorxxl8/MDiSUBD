@@ -14,4 +14,4 @@
   
   </table>
 
-["[Hello wolrd]"](https://hello-world.by/)
+[[Hello wolrd]](https://hello-world.by/)
